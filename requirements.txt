@@ -1,0 +1,6 @@
+yt-dlp
+youtube-transcript-api
+requests
+opencv-python-headless
+numpy
+openai-whisper

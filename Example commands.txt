@@ -1,0 +1,2 @@
+python model2_trimmer.py --video input.mp4 --start 10 --end 40 --srt true
+python model2_trimmer.py --url https://youtube.com/... --start 30 --end 75 --face true
